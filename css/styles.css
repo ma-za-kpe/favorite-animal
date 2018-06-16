@@ -156,17 +156,21 @@ iframe{
 }
 .popular h2{
   margin-left: 30px;
-  color: #f7325e;
+  color: white;
   float: left;
 }
 .popular ul{
-  margin-top: 80px;
+  margin-top: 60px;
   margin-left: -250px;
   color: black;
   float: left;
 }
+.popular ul li {
+  padding-top: 10px;
+}
 .popular ul li a{
-  color: #7dc410;
+  color: white;
+  text-decoration: none;
 }
 .bottom-h2{
   margin-left: 50px;
@@ -185,6 +189,7 @@ iframe{
 }
 .contact ul li a{
   text-decoration: none;
+  color: white;
 }
 .news-letter{
   margin-right: 200px;
