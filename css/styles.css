@@ -97,7 +97,7 @@ text-align: center;
   padding-right: 0px;
   -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.4s;
-  border: 2px solid gray; 
+  border: 2px solid gray;
 }
 .info:hover {
     background-color: gray;
@@ -181,4 +181,26 @@ text-align: center;
 }
 .country button.info{
   margin: 20px;
+}
+.contact ul li a{
+  text-decoration: none;
+}
+.news-letter{
+  margin-right: 200px;
+  margin-top: -50px;
+  float: right;
+}
+#first{
+  border: 1px solid white;
+}
+#second{
+  border: 1px solid white;
+}
+#second p{
+  margin-left: 10px;
+}
+.disc{
+  float: right;
+  margin-top: -35px;
+  margin-right: 10px;
 }
