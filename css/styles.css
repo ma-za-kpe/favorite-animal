@@ -97,10 +97,10 @@ text-align: center;
   padding-right: 0px;
   -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.4s;
-  border: 2px solid gray; /* Green */
+  border: 2px solid gray; 
 }
 .info:hover {
-    background-color: #8401FA; /* purple */
+    background-color: gray;
     color: white;
 }
 .info2{
@@ -171,5 +171,14 @@ text-align: center;
   margin-left: 50px;
 }
 .bottom-p{
+  margin-left: 100px;
+}
+.country{
   margin-left: 80px;
+}
+.country button{
+  width: 150px;
+}
+.country button.info{
+  margin: 20px;
 }
