@@ -83,6 +83,9 @@ text-align: center;
 .card p{
   font-size: 20px;
 }
+.card-swim img{
+  height: 205px;
+}
 .info{
   height: 40px;
   width: 80px;
