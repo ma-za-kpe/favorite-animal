@@ -36,7 +36,7 @@ nav ul li a{
   position: relative;
   text-align: center;
   background: url(" ../images/a.jpeg") no-repeat;
-  width: 1053px;;
+  width: 1053px;
   height: 461px;
 }
 .bottom-right{
@@ -114,7 +114,31 @@ text-align: center;
   margin: 20px;
   color: white;
 }
-#main-image{
-    max-width: 300px;
-    max-height: 300px;
+.tropical{
+  font-family: fantasy;
+  margin: 20px 0px;
+  position: relative;
+  text-align: center;
+  background-color: white;
+  /*background: url(" ../images/a.jpeg") no-repeat;*/
+  width: 1053px;
+  height: 461px;
+}
+.tropical img{
+  margin-top: 100px;
+  margin-left: 200px;
+}
+.tropical h2{
+  margin-left: 30px;
+  color: #f7325e;
+  float: left;
+}
+.tropical ul{
+  margin-top: 80px;
+  margin-left: -250px;
+  color: black;
+  float: left;
+}
+.tropical ul li a{
+  color: #7dc410;
 }
