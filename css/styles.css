@@ -124,9 +124,9 @@ text-align: center;
   width: 1053px;
   height: 461px;
 }
-.map img{
-  margin-top: 380px;
-  margin-left: 350px;
+iframe{
+  margin-top: 340px;
+  margin-left: 80px;
 }
 .tropical{
   width: 380px;
