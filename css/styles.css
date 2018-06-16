@@ -102,6 +102,7 @@ text-align: center;
 .info:hover {
     background-color: gray;
     color: white;
+    font-weight: bold;
 }
 .info2{
   margin-right: 30px;
